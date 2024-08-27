@@ -1,0 +1,17 @@
+body {
+    color: rgb(64, 33, 3)
+}
+body {
+    background-color: rgb(223, 218, 106);
+}
+a {
+    padding: 2px; /* Поля вокруг текста ссылки */
+    text-decoration: none; /* Убираем подчёркивание */
+   }
+   a:hover {
+    background: rgb(174, 108, 42); /* Цвет фона при наведении на ссылку курсора */
+    color: rgb(137, 96, 14); /* Новый цвет текста */
+   }
+   body {
+    text-align: center;
+}
